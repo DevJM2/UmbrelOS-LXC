@@ -1,3 +1,4 @@
+En proceso! -- NO es estable -- si tiene mejoras es libre de aportar!
 # Proxmox Scripts para Instalar UmbrelOS
 
 Este repositorio contiene un script automatizado para facilitar la instalación de **UmbrelOS** en una máquina virtual en **Proxmox**. El script realiza todo el proceso de creación de la VM, configuración del disco y arranque desde la ISO de UmbrelOS, todo con un toque de humor para hacerlo más divertido.
@@ -19,7 +20,7 @@ Este repositorio contiene un script automatizado para facilitar la instalación 
    bash -c "$(wget -qLO - https://raw.githubusercontent.com/DevJM2/UmbrelOS-LXC/main/install-umbrelos.sh)"
 
 
-
+In progress! -- Not stable -- If you have any improvements, feel free to contribute!
 # Proxmox Scripts to Install UmbrelOS
 
 This repository contains an automated script to simplify the installation of **UmbrelOS** in a virtual machine on **Proxmox**. The script automates the creation of the VM, disk configuration, and boot setup from the UmbrelOS ISO, all with a touch of humor to make it more fun.
