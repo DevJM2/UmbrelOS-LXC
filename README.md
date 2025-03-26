@@ -16,7 +16,7 @@ Este repositorio contiene un script automatizado para facilitar la instalación 
 1. Descarga o clona este repositorio.
 2. Ejecuta el script en tu servidor Proxmox:  
    ```bash
-   bash -c "$(wget -qLO - https://raw.githubusercontent.com/DevJM2/proxmox-scripts/main/install-umbrelos.sh)"
+   bash -c "$(wget -qLO - https://raw.githubusercontent.com/DevJM2/UmbrelOS-LXC/main/install-umbrelos.sh)"
 
 
 
@@ -38,4 +38,4 @@ This repository contains an automated script to simplify the installation of **U
 1. Download or clone this repository.
 2. Run the script on your Proxmox server:  
    ```bash
-   bash -c "$(wget -qLO - https://raw.githubusercontent.com/DevJM2/proxmox-scripts/main/install-umbrelos.sh)"
+   bash -c "$(wget -qLO - https://raw.githubusercontent.com/DevJM2/UmbrelOS-LXC/main/install-umbrelos.sh)"
